@@ -1,0 +1,6 @@
+id,location,district,size,price,is_available,booked_by,booking_start,booking_end,image_path,landmark,coordinates,address,images
+5267889f-85cc-46db-a87a-38311b6799ee,RAIPUR,Raipur,20-30,10000.0,True,,,,hoarding_images\77d9db20-ef0f-425a-b55c-c956dca28fb0.png,,,,h|o|a|r|d|i|n|g|_|i|m|a|g|e|s|\|d|5|b|f|b|b|9|8|-|7|9|c|0|-|4|f|6|3|-|9|b|0|9|-|c|f|5|8|2|8|f|a|6|0|7|4|.|p|n|g|hoarding_images\1d7bfdb1-d8ad-4c11-be9c-10af21e4b197.png|hoarding_images\d7f18cbc-e05c-4609-8c86-251f83ccd1f2.jpeg
+f607f17f-6358-4b9e-b600-bbc9b1949178,DURG,Durg,20*30,7000.0,True,,,,hoarding_images\644d44d2-ca9c-4318-8bea-231352a2ab49.png,,,,hoarding_images\2637dc49-45f4-4c22-bbdd-75b76a8fe3b3.png
+fba50fe1-298c-4923-a8a4-284673591584,RAIPUR (KACHNA),Raipur,15X20,15000.0,True,,,,hoarding_images\8c74eb20-5cb1-4372-a430-39ad3c34acc7.png,,,,hoarding_images\4b643c9b-695d-4b34-ba8f-cc41cd53ac55.png
+39ef7a2f-6ec4-4ce0-8899-a6d04e525251,Raipur Daldal Seoni,Raipur,30x20,10000.0,True,,,,,Ambuja Mall,,,hoarding_images\de9cc8b0-878b-462a-93a8-d4bd801f07e6.png|hoarding_images\0903463c-6bce-457d-81ef-8bd40c49ceaf.png
+7d7c9467-d0bc-47a6-85ce-b25dd08fb115,Naya Raipur,Raipur,30x20,0.0,True,,,,,sector 19 north blcok,sdfsfjsjfsdjfsdjf,NORTH BLCOK,hoarding_images\e5053655-a617-4500-939e-6bbe22f03e41.jpeg
